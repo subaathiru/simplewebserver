@@ -4,10 +4,10 @@ content = """
     <head>
         <title>laptop detail</title>
     </head>
-    <center>
-    <h3>T.Subaashinee(26011940)</h3>
-    </center>
     <body style="color : white" bgcolor="black">
+    <center>
+        <h3>T.Subaashinee(26011940)</h3>
+    </center>
         <center>
         <table border="3" cellpadding="4" cellspacing="5">
             <tr>
